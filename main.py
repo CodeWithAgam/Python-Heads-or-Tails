@@ -1,8 +1,7 @@
-# The below function prints Heads or Tails using the random module
 # Created by Agamdeep Singh / CodeWithAgam
 # Youtube: CodeWithAgam
 # Github: CodeWithAgam
-# Instagram: @agamdeep_21, @coderagam001
+# Instagram: @coderagam001 / @codewithagam
 # Twitter: @CoderAgam001
 # Linkdin: Agamdeep Singh
 
